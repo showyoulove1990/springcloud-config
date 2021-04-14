@@ -1,3 +1,2 @@
-
-test
-version=1
+config: 
+  info: "main springcloud config/config-dev.yml version=1"
